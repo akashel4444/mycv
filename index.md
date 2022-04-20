@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## your digital cv
 
 You can use the [editor on GitHub](https://github.com/akashel4444/mycv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
